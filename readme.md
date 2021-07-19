@@ -1,7 +1,7 @@
 # Skladatelj drv
 ## Components
 * PLC Unitronics (datasheet)
-* 6x inductive sensors (datasheet)
+* 6x inductive sensors (datasheet)(https://www.turck.de/datasheet/_en/edb_4590610_gbr_en.pdf)
 
 Za kupit:
 * SD card
